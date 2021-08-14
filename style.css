@@ -10,7 +10,7 @@ body {
   justify-content: center;
   align-items: center;
   overflow: hidden;
-  background: black;
+  background: lightgray;
 }
 
 .container {
